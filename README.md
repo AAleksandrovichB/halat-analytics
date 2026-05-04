@@ -23,7 +23,7 @@ halat-analytics/
 ├── data/                               # Source data
 │   ├── sales_clean.csv                 # Cleaned sales data
 │   ├── cost_price_clean.csv            # Cleaned cost price data
-│   └── Task.xlsx                       # Original test assignment file
+│   └── Task.xlsx                       # Original assignment file
 │
 ├── sql/                                # SQL queries
 │   └── code.sql                        # All queries: import, cleaning, analytics
@@ -137,7 +137,7 @@ halat-analytics/
 ├── data/                                   # Исходные данные
 │   ├── sales_clean.csv                     # Очищенные данные о продажах
 │   ├── cost_price_clean.csv                # Очищенные данные о себестоимости
-│   └── Task.xlsx                           # Исходный файл тестового задания
+│   └── Task.xlsx                           # Исходный файл задания
 │
 ├── sql/                                    # SQL запросы
 │   └── code.sql                            # Все запросы: импорт, очистка, аналитика
